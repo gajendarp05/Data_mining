@@ -1,0 +1,176 @@
+{herbs,} --> {other vegetables,}
+{herbs,} --> {whole milk,}
+{processed cheese,} --> {whole milk,}
+{herbs,} --> {root vegetables,}
+{pasta,} --> {whole milk,}
+{processed cheese,} --> {soda,}
+{processed cheese,} --> {other vegetables,}
+{cake bar,} --> {whole milk,}
+{canned fish,} --> {other vegetables,}
+{mustard,} --> {whole milk,}
+{tropical fruit,whipped/sour cream,} --> {whole milk,}
+{butter,yogurt,} --> {whole milk,}
+{pip fruit,root vegetables,} --> {whole milk,}
+{tropical fruit,whipped/sour cream,} --> {other vegetables,}
+{margarine,rolls/buns,} --> {whole milk,}
+{rolls/buns,whipped/sour cream,} --> {whole milk,}
+{pip fruit,root vegetables,} --> {other vegetables,}
+{domestic eggs,rolls/buns,} --> {whole milk,}
+{butter,root vegetables,} --> {whole milk,}
+{domestic eggs,root vegetables,} --> {whole milk,}
+{bottled beer,other vegetables,} --> {whole milk,}
+{bottled water,root vegetables,} --> {whole milk,}
+{fruit/vegetable juice,tropical fruit,} --> {other vegetables,}
+{sausage,tropical fruit,} --> {whole milk,}
+{domestic eggs,yogurt,} --> {whole milk,}
+{root vegetables,shopping bags,} --> {other vegetables,}
+{brown bread,yogurt,} --> {whole milk,}
+{cream cheese ,whole milk,} --> {yogurt,}
+{cream cheese ,yogurt,} --> {whole milk,}
+{citrus fruit,rolls/buns,} --> {whole milk,}
+{root vegetables,sausage,} --> {whole milk,}
+{frankfurter,other vegetables,} --> {whole milk,}
+{pork,root vegetables,} --> {other vegetables,}
+{margarine,yogurt,} --> {whole milk,}
+{bottled water,root vegetables,} --> {other vegetables,}
+{cream cheese ,other vegetables,} --> {whole milk,}
+{cream cheese ,whole milk,} --> {other vegetables,}
+{domestic eggs,root vegetables,} --> {other vegetables,}
+{domestic eggs,tropical fruit,} --> {whole milk,}
+{tropical fruit,whipped/sour cream,} --> {yogurt,}
+{fruit/vegetable juice,root vegetables,} --> {other vegetables,}
+{fruit/vegetable juice,root vegetables,} --> {whole milk,}
+{rolls/buns,whipped/sour cream,} --> {other vegetables,}
+{butter,whipped/sour cream,} --> {whole milk,}
+{butter,rolls/buns,} --> {whole milk,}
+{beef,rolls/buns,} --> {whole milk,}
+{pastry,tropical fruit,} --> {whole milk,}
+{pork,root vegetables,} --> {whole milk,}
+{domestic eggs,rolls/buns,} --> {other vegetables,}
+{coffee,other vegetables,} --> {whole milk,}
+{newspapers,yogurt,} --> {whole milk,}
+{root vegetables,sausage,} --> {other vegetables,}
+{margarine,root vegetables,} --> {other vegetables,}
+{frozen vegetables,root vegetables,} --> {other vegetables,}
+{curd,whipped/sour cream,} --> {whole milk,}
+{frankfurter,yogurt,} --> {whole milk,}
+{pastry,root vegetables,} --> {other vegetables,}
+{napkins,yogurt,} --> {whole milk,}
+{butter,root vegetables,} --> {other vegetables,}
+{hamburger meat,other vegetables,} --> {whole milk,}
+{hamburger meat,whole milk,} --> {other vegetables,}
+{bottled beer,bottled water,} --> {whole milk,}
+{newspapers,root vegetables,} --> {whole milk,}
+{frozen vegetables,root vegetables,} --> {whole milk,}
+{curd,tropical fruit,} --> {whole milk,}
+{citrus fruit,rolls/buns,} --> {other vegetables,}
+{citrus fruit,whipped/sour cream,} --> {whole milk,}
+{butter,tropical fruit,} --> {whole milk,}
+{napkins,other vegetables,} --> {whole milk,}
+{beef,yogurt,} --> {whole milk,}
+{pastry,sausage,} --> {whole milk,}
+{pip fruit,rolls/buns,} --> {whole milk,}
+{sausage,shopping bags,} --> {rolls/buns,}
+{butter,yogurt,} --> {other vegetables,}
+{curd,root vegetables,} --> {whole milk,}
+{pip fruit,whipped/sour cream,} --> {whole milk,}
+{frozen vegetables,yogurt,} --> {whole milk,}
+{sausage,tropical fruit,} --> {other vegetables,}
+{bottled water,fruit/vegetable juice,} --> {whole milk,}
+{fruit/vegetable juice,rolls/buns,} --> {whole milk,}
+{onions,other vegetables,} --> {whole milk,}
+{onions,whole milk,} --> {other vegetables,}
+{beef,rolls/buns,} --> {other vegetables,}
+{citrus fruit,domestic eggs,} --> {whole milk,}
+{curd,root vegetables,} --> {other vegetables,}
+{bottled water,citrus fruit,} --> {whole milk,}
+{citrus fruit,rolls/buns,} --> {yogurt,}
+{newspapers,root vegetables,} --> {other vegetables,}
+{sausage,shopping bags,} --> {soda,}
+{margarine,yogurt,} --> {other vegetables,}
+{other vegetables,sugar,} --> {whole milk,}
+{sugar,whole milk,} --> {other vegetables,}
+{pork,rolls/buns,} --> {whole milk,}
+{pork,rolls/buns,} --> {other vegetables,}
+{butter,whipped/sour cream,} --> {other vegetables,}
+{curd,rolls/buns,} --> {whole milk,}
+{fruit/vegetable juice,tropical fruit,} --> {whole milk,}
+{soda,whipped/sour cream,} --> {whole milk,}
+{brown bread,root vegetables,} --> {whole milk,}
+{brown bread,tropical fruit,} --> {whole milk,}
+{chicken,root vegetables,} --> {other vegetables,}
+{onions,other vegetables,} --> {root vegetables,}
+{onions,root vegetables,} --> {other vegetables,}
+{newspapers,yogurt,} --> {other vegetables,}
+{long life bakery product,other vegetables,} --> {whole milk,}
+{long life bakery product,whole milk,} --> {other vegetables,}
+{butter,domestic eggs,} --> {whole milk,}
+{cream cheese ,other vegetables,} --> {yogurt,}
+{cream cheese ,yogurt,} --> {other vegetables,}
+{citrus fruit,whipped/sour cream,} --> {other vegetables,}
+{butter,tropical fruit,} --> {other vegetables,}
+{domestic eggs,margarine,} --> {whole milk,}
+{domestic eggs,yogurt,} --> {other vegetables,}
+{domestic eggs,whipped/sour cream,} --> {whole milk,}
+{chocolate,other vegetables,} --> {whole milk,}
+{chocolate,whole milk,} --> {other vegetables,}
+{pastry,root vegetables,} --> {whole milk,}
+{pip fruit,sausage,} --> {whole milk,}
+{frankfurter,other vegetables,} --> {rolls/buns,}
+{pip fruit,whipped/sour cream,} --> {other vegetables,}
+{bottled beer,yogurt,} --> {whole milk,}
+{citrus fruit,pip fruit,} --> {other vegetables,}
+{bottled beer,rolls/buns,} --> {whole milk,}
+{other vegetables,white bread,} --> {whole milk,}
+{chicken,root vegetables,} --> {whole milk,}
+{butter,rolls/buns,} --> {other vegetables,}
+{citrus fruit,pip fruit,} --> {tropical fruit,}
+{frankfurter,root vegetables,} --> {whole milk,}
+{root vegetables,shopping bags,} --> {whole milk,}
+{citrus fruit,pip fruit,} --> {whole milk,}
+{domestic eggs,pip fruit,} --> {whole milk,}
+{domestic eggs,soda,} --> {whole milk,}
+{shopping bags,yogurt,} --> {other vegetables,}
+{root vegetables,sausage,} --> {yogurt,}
+{frozen vegetables,rolls/buns,} --> {whole milk,}
+{margarine,rolls/buns,} --> {other vegetables,}
+{curd,tropical fruit,} --> {yogurt,}
+{chicken,rolls/buns,} --> {whole milk,}
+{brown bread,rolls/buns,} --> {whole milk,}
+{pip fruit,root vegetables,} --> {yogurt,}
+{frozen vegetables,yogurt,} --> {other vegetables,}
+{pastry,tropical fruit,} --> {other vegetables,}
+{pip fruit,root vegetables,} --> {tropical fruit,}
+{beef,yogurt,} --> {other vegetables,}
+{sausage,shopping bags,} --> {other vegetables,}
+{bottled water,butter,} --> {whole milk,}
+{curd,tropical fruit,} --> {other vegetables,}
+{shopping bags,yogurt,} --> {whole milk,}
+{bottled water,fruit/vegetable juice,} --> {soda,}
+{napkins,rolls/buns,} --> {whole milk,}
+{chocolate,soda,} --> {whole milk,}
+{chocolate,whole milk,} --> {soda,}
+{bottled water,citrus fruit,} --> {other vegetables,}
+{brown bread,yogurt,} --> {other vegetables,}
+{frankfurter,tropical fruit,} --> {whole milk,}
+{hygiene articles,other vegetables,} --> {whole milk,}
+{hygiene articles,whole milk,} --> {other vegetables,}
+{domestic eggs,whipped/sour cream,} --> {other vegetables,}
+{pastry,pip fruit,} --> {whole milk,}
+{oil,other vegetables,} --> {whole milk,}
+{oil,whole milk,} --> {other vegetables,}
+{bottled water,sausage,} --> {other vegetables,}
+{brown bread,soda,} --> {whole milk,}
+{coffee,yogurt,} --> {whole milk,}
+{newspapers,yogurt,} --> {rolls/buns,}
+{pip fruit,rolls/buns,} --> {other vegetables,}
+{newspapers,tropical fruit,} --> {whole milk,}
+{domestic eggs,soda,} --> {other vegetables,}
+{butter,citrus fruit,} --> {whole milk,}
+{sausage,whipped/sour cream,} --> {whole milk,}
+{bottled beer,bottled water,} --> {soda,}
+{other vegetables,root vegetables,yogurt,} --> {whole milk,}
+{root vegetables,whole milk,yogurt,} --> {other vegetables,}
+{other vegetables,tropical fruit,yogurt,} --> {whole milk,}
+{tropical fruit,whole milk,yogurt,} --> {other vegetables,}
+{other vegetables,root vegetables,trop
